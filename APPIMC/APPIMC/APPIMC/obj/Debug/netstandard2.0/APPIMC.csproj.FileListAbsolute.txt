@@ -1,0 +1,15 @@
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.csproj.AssemblyReference.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.AssemblyInfo.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\bin\Debug\netstandard2.0\APPIMC.deps.json
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\bin\Debug\netstandard2.0\APPIMC.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\bin\Debug\netstandard2.0\APPIMC.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\refint\APPIMC.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\APPIMC.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPIMC\APPIMC\APPIMC\obj\Debug\netstandard2.0\ref\APPIMC.dll
